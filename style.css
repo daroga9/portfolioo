@@ -626,7 +626,19 @@ p {
 	/* End contact  */
 }
 /* End Media Query For Tablet */
+/* Social Media Section */
+#social-media {
+  background: #313552;
+}
 
+/* Add color to Social Media Links */
+.media_link {
+  padding: 1rem;
+  max-width: 15rem;
+  margin-left: 1rem;
+  border: 2px solid #f5ba09;
+  border-radius: 0.5rem;
+}
 /* Media Query For Desktop */
 @media only screen and (min-width: 1200px) {
 	/* header */
